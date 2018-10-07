@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/scratch2.iml" filepath="$PROJECT_DIR$/scratch2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scratch2_main.iml" filepath="$PROJECT_DIR$/.idea/modules/scratch2_main.iml" group="scratch2" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scratch2_test.iml" filepath="$PROJECT_DIR$/.idea/modules/scratch2_test.iml" group="scratch2" />
+    </modules>
+  </component>
+</project>
